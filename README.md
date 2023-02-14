@@ -1,4 +1,4 @@
-# Hello 👋🏾 💻
+# Hello 👋🏾 
 
 I'm a software engineer who is passionate about building and shipping innovative products geared toward simplifying, automating, and improving life 
 
